@@ -1,0 +1,31 @@
+body {
+    background-color: #170409;
+    color: white;
+    padding: 50px;
+  }
+  
+  p {
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 80px;
+    position: absolute;
+    border-radius: 25px;
+  }
+  
+  .hidden {
+    display:none;
+  }
+  
+  #move {
+    left: 200px;
+  }
+  
+  #change:hover {
+    cursor:pointer;
+  }
